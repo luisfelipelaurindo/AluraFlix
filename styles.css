@@ -1,13 +1,13 @@
 body {
-    color:rgb(24, 24, 109);
-    background:green;
+    color:rgb(255, 255, 255);
+    background:rgb(251, 255, 0);
     margin: 0px;
     font-family: "Open Sans", sans-serif;
     margin-bottom: 100px;
 }
 
 header {
-    border-bottom: solid 2px rgb(255, 238, 0);
+    border-bottom: solid 2px rgb(0, 38, 255);
     padding: 20px;
     font-size: 32px;
     color:whitesmoke;
