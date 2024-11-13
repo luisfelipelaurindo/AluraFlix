@@ -1,0 +1,31 @@
+body {
+    color:rgb(24, 24, 109);
+    background:green;
+    margin: 0px;
+    font-family: "Open Sans", sans-serif;
+    margin-bottom: 100px;
+}
+
+header {
+    border-bottom: solid 2px rgb(255, 238, 0);
+    padding: 20px;
+    font-size: 32px;
+    color:whitesmoke;
+}
+
+.chamada {
+    background: rgb(67, 187, 51);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
